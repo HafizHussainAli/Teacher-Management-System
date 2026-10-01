@@ -33,6 +33,7 @@ Teacher-Management-System/
 ├── postgreSQL/
 │   └── teacher_management.py
 │
+├── queries.sql (New file)
 ├── schema.sql
 ├── README.md
 ├── .gitignore
